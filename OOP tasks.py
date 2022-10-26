@@ -1,3 +1,7 @@
+def plus(x,y):
+    return (x+y)
+
+print(plus(1,2))
 
 # class Person:
 #     def __init__(self, name, age, hobby, number):
